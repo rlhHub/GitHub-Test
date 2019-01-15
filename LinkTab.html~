@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <title></title>
+    <meta content="">
+    <style>
+		div.a {
+		  text-indent: 10px;
+		}
+		div.b {
+		  text-indent: 20px;
+		}
+		
+	</style>
+ 
+  </head>
+  <body>
+  		<h4><center>	<a href="main.html" target="TargetTab">Home</a> </h4></center><hr>	
+
+		<h3>CBHS Link</h3>
+		<div class="a">
+			<h4>- <a href="https://www.cbhs-sacramento.org/" target="TargetTab">CB Website</a> </h4>
+			<h4>- <a href="https://www.cbhs-sacramento.org/academics/counseling-department/" target="TargetTab">Counseling Dept</a> </h4>
+			<h4>- <a href="https://www.cbhs-sacramento.org/wp-content/uploads/2018/09/2018_2019-ACT-SAT-Test-Date-Calendar-v2.pdf?x40806" target="TargetTab">2019 SAT Test Dates</a> </h4>
+			<h4>- <a href="https://student.naviance.com/cbhs" target="TargetTab">Family Connection</a> </h4>
+			<h4>- <a href="https://eventpublisher.dudesolutions.com/cbhs" target="TargetTab">Calendar</a> </h4>
+			<h4>- <a href="https://drive.google.com/file/d/1WGXkK9tk_CR8KKwVR3OFpjliqZ6wxXt_/view?usp=sharing" target="_blank">Sat Score	</a> </h4>
+		</div><hr>
+
+		<h3>Colleges</h3>
+		<div class="a">
+			<h4><a href="https://www.niche.com/colleges/search/best-colleges/s/california/" target="_blank">Niche Colleges</a> </h4>  
+			<div class="b">
+			<h4><a href="https://www.niche.com/colleges/university-of-california---davis/" target="_blank">UC Davis</a> </h4>
+			<h4><a href="https://www.niche.com/colleges/university-of-california---irvine/" target="_blank">UC Irvine</a> </h4>
+			<h4><a href="https://www.niche.com/colleges/santa-clara-university/" target="_blank">UC Santa Clara</a> </h4>
+			<h4><a href="https://www.niche.com/colleges/university-of-washington/" target="_blank">University of Washington</a> </h4>
+			</div>
+		</div><hr>
+
+		<h3>Summer Programs</h3>
+		<div class="a">
+			<h4><a href="SummerProgram.html" target="TargetTab">2019 Summer Programs	</a> </h4>  
+			
+		</div><hr>	
+		<h4><a href="https://docs.google.com/document/d/1XclgURoYpjZ7dornuWq-VTTRpWc5u6s5BbdcUQbyTew/edit?usp=sharing" target="TargetTab">Prep Notes</a> </h4><hr>
+		
+		<h3>Williams College</h3>
+		<div class="a">
+			<h4><a href="https://commencement.williams.edu/" target="TargetTab">2019 Commencement</a> </h4>  
+			
+			<h4><a href="https://en.wikipedia.org/wiki/Ab_Initio_Software" target="TargetTab">Ab Initio Software</a> </h4>
+			
+		</div><hr>	
+		
+	</body>
+</html>

@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Kai's College Prep</title>
+</head>
+<frameset cols="15,85">
+<frame name="LinkTab" src="LinkTab.html">
+<frame name="TargetTab" src="index4.html">
+<noframes>
+
+</noframes>
+</frameset>
+</html>
